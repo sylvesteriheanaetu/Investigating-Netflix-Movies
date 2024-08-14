@@ -31,3 +31,8 @@ I worked with the dataset `netflix_data.csv`, along with the following table det
 
 
 ### For the complete project description, code blocks and exploratory data analysis, click [Here](notebook.ipynb)
+
+
+### Find the dataset [here](netflix_data.csv)
+
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/sylvester-iheanaetu-434069231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
