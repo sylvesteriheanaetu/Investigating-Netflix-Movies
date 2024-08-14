@@ -1,9 +1,9 @@
-# Investigating Netflix Movies 🎥 : An Exploratory Data Analysis project with Python
+# 🎥 Investigating Netflix Movies : An Exploratory Data Analysis project with Python
 
 ![redpopcorn](https://github.com/user-attachments/assets/5a6e9894-49fd-4388-a12e-70e2c1963193)
 
 
-This is a practice [Datacamp](https://app.datacamp.com/) project where I applied my exploratory data analysis and the foundational Python skills I learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie data.
+This is a python practice [Datacamp](https://app.datacamp.com/) project where I applied my exploratory data analysis and the foundational Python skills I learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie data.
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
