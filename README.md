@@ -1,4 +1,4 @@
-# Investigating Netflix Movies 🎥 
+# Investigating Netflix Movies 🎥 : An Exploratory Data Analysis project with Python
 
 ![redpopcorn](https://github.com/user-attachments/assets/5a6e9894-49fd-4388-a12e-70e2c1963193)
 
