@@ -28,3 +28,6 @@ I worked with the dataset `netflix_data.csv`, along with the following table det
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
+
+
+### For the complete project description, code blocks and exploratory data analysis, click [Here](notebook.ipynb)
